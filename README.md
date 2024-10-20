@@ -48,8 +48,6 @@ Visualization: After successfully fetching data, the temperatures for all cities
 Automatic Refresh: The system automatically updates the weather data every 5 minutes by default (this can be modified in the code).
 
 Project Structure
-bash
-Copy code
 .
 ├── main.py               # Main entry point of the application
 ├── visualizer.py          # Visualization module using matplotlib
